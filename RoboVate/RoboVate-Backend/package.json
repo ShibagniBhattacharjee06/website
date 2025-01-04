@@ -1,0 +1,14 @@
+{
+  "name": "robovate-backend",
+  "version": "1.0.0",
+  "description": "This is the backend code for RoboVate App",
+  "main": "index.js",
+  "scripts": {
+    "start": "node ./index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.21.2"
+  }
+}
